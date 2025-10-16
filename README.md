@@ -10,6 +10,11 @@ Click on the Joke agent (with HTTP tool).json file.
 
 Click the "Download" button to save it to your local machine.
 
+###SCREENSHOT:-
+<img width="1919" height="975" alt="Screenshot 2025-10-16 132843" src="https://github.com/user-attachments/assets/16937d6a-eb70-4484-a6d2-af8c18a1436a" />
+
+
+
 Import into n8n:
 
 Open your n8n instance.
